@@ -12,7 +12,7 @@ $ pkg install git
 ```
 # RUN
 ```
-git clone https://github.com/BOY-H4MZ4H/nope_free
-cd nope_free
-python2 nopee.py
+$ git clone https://github.com/BOY-H4MZ4H/nope_free
+$ cd nope_free
+$ python2 nopee.py
 ```
